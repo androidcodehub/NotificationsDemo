@@ -15,7 +15,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.RemoteViews;
 
-import com.yzs.demo.notificationdemo.R;
 
 public class MainActivity extends AppCompatActivity {
 
