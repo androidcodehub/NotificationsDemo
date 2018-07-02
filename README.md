@@ -10,3 +10,6 @@ Android Oreo Notifications Demo
 3 show the inbox function demo of notification
 
 4 show the custom function of notification
+
+
+most info at http://androidcodehub.com/android-oreo-notifications/
